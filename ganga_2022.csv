@@ -1,0 +1,31 @@
+Year,Station Code,State,Station Name,DO (mg/L),BOD (mg/L),FC (MPN/100ml),FS (MPN/100ml),pH
+2022,10150,Uttar Pradesh,Madhya Ganga Barrage ( Bijnor),9.1,1.2,790,1.8,7.8
+2022,10149,Uttar Pradesh,"U/S Brijghat, Garhmukteshwar",10,1.1,240,74.5,7.3
+2022,1062,Uttar Pradesh,"Brijghat D/S, Gharmukteshwar",9.5,2.2,540,129.5,7.4
+2022,2488,Uttar Pradesh,U/S Anoopshahar,9,2.1,220,NA,7.2
+2022,2489,Uttar Pradesh,Anoopshahar D/S,8.9,1.9,350,NA,7.3
+2022,1145,Uttar Pradesh,Narora ( Bulandsahar),8.7,1.9,540,NA,7.2
+2022,2490,Uttar Pradesh,Kachhla Ghat ( Aligarh),9.6,1.2,210,1.8,7.4
+2022,10151,Uttar Pradesh,Farrukhabad,8,3.1,1100,1.8,8.4
+2022,1063,Uttar Pradesh,U/S Kannauj ( Rajghat),7.8,3.6,1500,1.8,8.4
+2022,1066,Uttar Pradesh,Kannauj D/S,7.5,3.8,2100,1.8,8.3
+2022,1146,Uttar Pradesh,Bithoor ( Kanpur),8,3.5,2000,39,8.5
+2022,1067,Uttar Pradesh,U/S Kanpur ( Ranighat),7.9,3.6,2200,20,8.4
+2022,10154,Uttar Pradesh,U/S Shuklaganj /bathing Ghat ( Bharaoghat),8,3.8,2200,46,8.4
+2022,10155,Uttar Pradesh,Shuklaganj D/S,7.8,3.9,2400,21.5,8.4
+2022,10156,Uttar Pradesh,Bathing Ghat ( Gola Ghat),7.5,4.2,2200,10.9,8.4
+2022,10157,Uttar Pradesh,Bathing Ghat ( Jajmau Bridge),7.4,4.4,3300,20,8.3
+2022,1068,Uttar Pradesh,Kanpur D/S ( Jajmau Pumping Station)/jane Vill.,7.1,4.7,5300,1.8,8.3
+2022,1147,Uttar Pradesh,Dalmau ( Rai Bareilly),7.3,4,1700,10.5,8.2
+2022,2498,Uttar Pradesh,Kala Kankar ( Rai Bareilly),7.7,3.9,1700,20,8.3
+2022,2487,Uttar Pradesh,Kadaghat ( Prayagraj),8.3,2.8,610,NA,8.2
+2022,1046,Uttar Pradesh,Prayagraj ( Rasoolabad),8.3,2.8,680,NA,8.2
+2022,1049,Uttar Pradesh,Prayagraj D/S ( Sangam),8.1,2.8,870,NA,8.2
+2022,10158,Uttar Pradesh,A/C Tamas River ( Sirsa),8.4,2.7,680,NA,8.2
+2022,2485,Uttar Pradesh,"U/S, Vindhyachal ( Mirzapur)",8.1,2.7,1100,900,8.4
+2022,2486,Uttar Pradesh,"D/S, Mirzapur",7.4,4.1,13000,7000,8.3
+2022,10153,Uttar Pradesh,Chunar,7.8,3.3,7950,4600,8.3
+2022,1070,Uttar Pradesh,U/S Varanasi ( Vishwa Sundari Bridge),8.3,2.5,850,700,8.3
+2022,1071,Uttar Pradesh,Varanasi D/S ( Malviya Bridge),7.4,3.8,11000,7000,8.1
+2022,10152,Uttar Pradesh,A/C Gomti River ( Bhusaula),7.8,3.3,7850,4900,8.3
+2022,1073,Uttar Pradesh,Tarighat ( Ghazipur),7.1,4,13000,9000,8.2
